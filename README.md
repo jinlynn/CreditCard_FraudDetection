@@ -20,6 +20,19 @@ Merchants are consistent across both sets, while some customers appear only in t
 - Apply statistical methods (ANOVA) to validate feature relevance.
 - Compare baseline models (Logistic Regression, MLP) with GNN performance.
 
+## 📁 Files and Structure
+```text
+📁 images/               → Visuals used in the README
+📁 notebooks/            → Jupyter notebooks
+├── data_analysis.ipynb    → EDA, feature engineering, visualisations
+└── model.ipynb            → Model training and evaluation
+📁 sql/                  → SQL scripts
+├── data.sql               → SQL script for importing data
+├── schema.sql             → Database schema setup
+└── query.sql              → Queries
+README.md                → Project overview and documentation
+```
+
 ## 🔧 Feature Engineering Highlights
 
 - Created categorical job groupings using LLM (DeepSeek) → reduced 494 unique jobs into 13 categories.
