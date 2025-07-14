@@ -79,11 +79,11 @@ Merchants are consistent across both sets, while some customers appear only in t
 
 **Multigraph with parallel edges:**
 
-<img src="./images/mechanism1.png" alt="Multigraph with parallel edges" width="45%"/>
+<img src="./images/mechanism1.png" alt="Multigraph with parallel edges" width="30%"/>
 
 **Artificial nodes (blue) to aid in aggregation of parallel edges:**
 
-<img src="./images/mechanism2.png" alt="Artificial nodes (blue) to aid in aggregation of parallel edges" width="45%"/>
+<img src="./images/mechanism2.png" alt="Artificial nodes (blue) to aid in aggregation of parallel edges" width="30%"/>
 
 ## 🧪 Tools Used
 
