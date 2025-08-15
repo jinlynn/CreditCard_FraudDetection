@@ -47,7 +47,7 @@ README.md                → Project overview and documentation
 - Fraudulent transactions tend to have higher amounts (coefficient ≈ 1.4 in regression model).
 - Spending behaviour varies significantly across merchant categories (coefficients ranging from 0.2 to 1.6).
 - Customers involved in fraudulent transactions tend to have fewer overall connections (lower node degrees) compared to those making legitimate transactions.
-- Statistical tests (ANOVA) confirmed the significance of the fraud indicator, job categories, and merchant categories.
+- Statistical tests (ANOVA) confirmed the significance of transaction amount, job categories, and merchant categories.
 - The GNN outperformed traditional models by leveraging graph structure and relational features.
 
 ## 📊 Model Evaluation & Visual Insights
